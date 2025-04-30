@@ -1,0 +1,47 @@
+
+.bgcolour {
+    background-color: #ffecec;
+}
+
+.logo {
+    height: 50px;
+    width: 50px;
+    margin: 0 auto;
+    display: block;
+}
+
+#heroimage {
+    background-image: url('../images/flyingsaucers.png');
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+.purplebutton {
+    background-color: #9689c3;
+    color: white;
+}
+
+.purplebutton:hover {
+    background-color: #aa9fd1;
+    color: white;
+}
+
+.footercolour {
+    background-color: #9689c3
+}
+
+.igbrand{
+    font-size: 1.5rem;
+    margin-left: 6px;
+    margin-top: 2px
+}
+
+.lighterbg {
+    background-color: #fff1f1
+}
+
+.carouselitem {
+    max-height: 400px;
+    object-fit: cover;
+}
